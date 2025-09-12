@@ -11,7 +11,7 @@ body {
     font-family: 'Roboto';
     min-height: 100vh;
     background-image: radial-gradient(circle, rgba(0, 0, 255, 1) 0%, rgba(0, 0, 153, 1) 50%, rgba(0, 0, 91, 1) 100%);
-    /* background-color: #191970; */
+
     font-family: bree-serif ;
 }
 
@@ -196,6 +196,7 @@ nav a:hover {
         overflow-y: hidden;
     }
 }
+
 .certificate-card {
     height: 250px;
     width: 280px;
@@ -226,13 +227,16 @@ nav a:hover {
     color: #ffffff;
     font-size: 22px;
 }
+
 .skills-heading {
     text-align: center;
     color: #fff;
 }
+
 .skills-section {
     margin: 20px;
 }
+
 .projects-section {
     border-radius: 24px;
     box-shadow: 0 8px 32px rgba(67, 206, 162, 0.12);
@@ -240,12 +244,14 @@ nav a:hover {
     margin-bottom: 3rem;
     transition: box-shadow 0.3s;
 }
+
 .projects-heading {
     font-size: 48px;
     color: #fff;
     text-align: center;
     
 }
+
 .projects-section .card {
     border: none;
     border-radius: 18px;
